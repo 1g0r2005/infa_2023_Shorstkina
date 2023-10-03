@@ -1,2 +1,2 @@
 # infa_2023_Shorstkina
-bla-bla-bla
+refactored version of gif with red bird
